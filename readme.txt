@@ -1,3 +1,3 @@
 I'm learning Git.
-Git is a version control system.
+Git iersion control system.
 Git is free software.
